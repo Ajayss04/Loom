@@ -43,7 +43,7 @@ export default function RootLayout({ children }) {
 
           <footer className="bg-blue-300 py-12 bg-opacity-10">
             <div className="container mx-auto px-4 text-center text-sm text-gray-500">
-              <p></p>
+              <p>Made with 💻 and ☕ by Ajaypal Sran</p>
             </div>
           </footer>
         </body>
